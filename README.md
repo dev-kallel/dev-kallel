@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Nicollas Kallel de Souza Matos 👋
 
 [![Email](https://img.shields.io/badge/Email-Enviar%20no%20Gmail-blue?style=for-the-badge&logo=gmail)](link email)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](link linkendin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/nicollas-matos-032b8831b)
 
 ### Tecnologias que utilizo no meu dia a dia
 
