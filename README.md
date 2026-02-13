@@ -1,8 +1,10 @@
 
 ### Olá! Eu sou o Nicollas Kallel de Souza Matos 👋
 
-[![Email](https://img.shields.io/badge/Email-Enviar%20no%20Gmail-blue?style=for-the-badge&logo=gmail)](kallelmatos01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/nicollas-matos-032b8831b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicollas-matos-032b8831b)
+
+[![Email](https://img.shields.io/badge/Email-Enviar%20no%20Gmail-blue?style=for-the-badge&logo=gmail)](mailto:kallelmatos01@gmail.com)
+
 
 ### Tecnologias que utilizo no meu dia a dia
 
