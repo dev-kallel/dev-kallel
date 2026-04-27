@@ -1,21 +1,48 @@
-### Olá! Eu sou o Nicollas Kallel de Souza Matos 👋
+<h1 align="center">👋 Olá, eu sou o Nicollas Kallel</h1>
 
-[![Email](https://img.shields.io/badge/Email-Enviar%20no%20Gmail-blue?style=for-the-badge&logo=gmail)](mailto:kallelmatos01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicollas-matos-032b8831b)
+<p align="center">
+  💻 Estudante de Engenharia de Software <br>
+  🚀 Em busca de oportunidade de estágio <br>
+  📚 Formado em Desenvolvimento de Sistemas <br>
+</p>
+
+<p align="center">
+  <a href="mailto:kallelmatos01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nicollas-matos-032b8831b">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### Tecnologias que utilizo no meu dia a dia
+## 🚀 Tecnologias que uso no dia a dia
 
-<div style='display:inline_block'><br/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-    <img align='center' alt='javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
-    <img align='center' alt='nodejs' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
-    <img align='center' alt='php' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
-    <img align='center' alt='python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
-    <img align='center' alt='csharp' src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
 
-Estudante de Engenharia de Software em busca de uma oportunidade de estágio para desenvolver habilidades práticas e evoluir profissionalmente.
+---
 
+## 📌 Sobre mim
 
+Sou estudante de Engenharia de Software focado em desenvolvimento e evolução constante.  
+Busco uma oportunidade de estágio para aplicar meus conhecimentos na prática, aprender com profissionais experientes e crescer na área de tecnologia.
+
+---
+
+## 📈 Em evolução
+
+- 🔥 Aprimorando habilidades em desenvolvimento web  
+- 📚 Estudando boas práticas e arquitetura de software  
+- 💡 Criando projetos para fortalecer o portfólio  
+
+---
+
+⭐ *Sempre aprendendo algo novo e buscando evoluir todos os dias.*
