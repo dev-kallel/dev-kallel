@@ -1,9 +1,9 @@
-<h1 align="center">👋 Olá, eu sou o Nicollas Kallel</h1>
+<h1 align="center">Olá, eu sou o Nicollas Kallel</h1>
 
 <p align="center">
-  💻 Estudante de Engenharia de Software <br>
-  🚀 Em busca de oportunidade de estágio <br>
-  📚 Formado em Desenvolvimento de Sistemas <br>
+  Estudante de Engenharia de Software <br>
+  Em busca de oportunidade de estágio <br>
+  Formado em Desenvolvimento de Sistemas <br>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Tecnologias que uso no dia a dia
+## Tecnologias que uso no dia a dia
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,19 +30,26 @@
 
 ---
 
-## 📌 Sobre mim
+## Sobre mim
 
-Sou estudante de Engenharia de Software focado em desenvolvimento e evolução constante.  
-Busco uma oportunidade de estágio para aplicar meus conhecimentos na prática, aprender com profissionais experientes e crescer na área de tecnologia.
-
----
-
-## 📈 Em evolução
-
-- 🔥 Aprimorando habilidades em desenvolvimento web  
-- 📚 Estudando boas práticas e arquitetura de software  
-- 💡 Criando projetos para fortalecer o portfólio  
+<p align="center">
+  Sou estudante de Engenharia de Software focado em desenvolvimento e evolução constante.<br>
+  Busco uma oportunidade de estágio para aplicar meus conhecimentos na prática,<br>
+  aprender com profissionais experientes e crescer na área de tecnologia.
+</p>
 
 ---
 
-⭐ *Sempre aprendendo algo novo e buscando evoluir todos os dias.*
+## Em evolução
+
+<p align="center">
+  Aprimorando habilidades em desenvolvimento web<br>
+  Estudando boas práticas e arquitetura de software<br>
+  Criando projetos para fortalecer o portfólio
+</p>
+
+---
+
+<p align="center">
+  Sempre aprendendo algo novo e buscando evoluir todos os dias.
+</p>
